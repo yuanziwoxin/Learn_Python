@@ -1,4 +1,3 @@
-[TOC]
 # Python笔记（一）
 @(Python)
 
